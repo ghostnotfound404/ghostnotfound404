@@ -47,8 +47,9 @@
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?logo=Trello&logoColor=%23FFFFFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ghostnotfound404&theme=gruvbox)](https://git.io/streak-stats)
+## Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ghostnotfound404&theme=gruvbox)](https://git.io/streak-stats)
 
 
 
